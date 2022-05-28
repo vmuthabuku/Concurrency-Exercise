@@ -5,6 +5,7 @@ import (
 )
 
 func main() {
-	routines.WaitGroupRoutine()
+	//routines.WaitGroupRoutine()
+	routines.ChannelRoutine()
 
 }
